@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReSeichiAssist.iml" filepath="$PROJECT_DIR$/.idea/modules/ReSeichiAssist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReSeichiAssist_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ReSeichiAssist_main.iml" group="ReSeichiAssist" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReSeichiAssist_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ReSeichiAssist_test.iml" group="ReSeichiAssist" />
+    </modules>
+  </component>
+</project>
